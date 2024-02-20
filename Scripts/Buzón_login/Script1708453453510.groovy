@@ -21,12 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://buzon.talisis.com/admin')
 
-WebUI.setText(findTestObject('Object Repository/Page_TALISIS  Buzon de transparencia/input_Usuario_user'), a)
+WebUI.setText(findTestObject('Page_TALISIS  Buzon de transparencia/input_Usuario_user'), user)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_TALISIS  Buzon de transparencia/input_Contrasea_password'), 
-    'aeHFOx8jV/A=')
+WebUI.setText(findTestObject('Page_TALISIS  Buzon de transparencia/input_Contrasea_password'), password)
 
-WebUI.click(findTestObject('Object Repository/Page_TALISIS  Buzon de transparencia/button_ACEPTAR'))
-
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Page_TALISIS  Buzon de transparencia/button_ACEPTAR'))
 
