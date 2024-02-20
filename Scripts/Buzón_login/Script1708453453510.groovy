@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://buzon.talisis.com/admin')
 
 WebUI.setText(findTestObject('Page_TALISIS  Buzon de transparencia/input_Usuario_user'), user)
 
-WebUI.setText(findTestObject('Page_TALISIS  Buzon de transparencia/input_Contrasea_password'), password)
+WebUI.setText(findTestObject('Object Repository/Page_TALISIS  Buzon de transparencia/input_Contrasea_password'), password)
 
 WebUI.click(findTestObject('Page_TALISIS  Buzon de transparencia/button_ACEPTAR'))
 
