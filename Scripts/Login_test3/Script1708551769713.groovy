@@ -17,3 +17,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://buzon.talisis.com/admin')
+
+WebUI.setText(findTestObject('Object Repository/Page_TALISIS  Buzon de transparencia/input_Usuario_user'), 'abel.castro@talisis.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_TALISIS  Buzon de transparencia/input_Contrasea_password'), 
+    'qeJ0sjJnwEs=')
+
+WebUI.click(findTestObject('Object Repository/Page_TALISIS  Buzon de transparencia/button_ACEPTAR'))
+
+WebUI.closeBrowser()
+
