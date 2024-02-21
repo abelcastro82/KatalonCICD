@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>88adf80c-44d2-4520-8a33-ba1fa0503df7</webElementGuid>
+      <webElementGuid>0f5368ce-9f65-439f-b69b-dd09da8681dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>90d428d7-54da-4fcd-8e19-293bc89915f6</webElementGuid>
+      <webElementGuid>164ded11-0f82-48ba-8faa-32be62bf4b82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>user</value>
-      <webElementGuid>7153ca5e-7e72-43a5-b956-aa4a54cc269d</webElementGuid>
+      <webElementGuid>667a2365-c5d0-469e-8ed9-e1f5de15006a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>cuenta@talisis.com</value>
-      <webElementGuid>7e7b8b42-1930-41b3-a091-4f5f7adc3a96</webElementGuid>
+      <webElementGuid>cc4f3385-b703-4cb5-8e3d-5c7def37a276</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>fd655210-1859-47e5-b4f3-fb240695c714</webElementGuid>
+      <webElementGuid>83bd0361-208e-462a-a78a-63c632b8c31a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login&quot;)/form[@class=&quot;form&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>c80e4dda-b557-4bbb-901a-76005b3e7b61</webElementGuid>
+      <webElementGuid>c78427f0-864a-45bf-bd14-af63e6ee2aad</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='user']</value>
-      <webElementGuid>c47db844-3ad9-4d2b-b959-e98b0090e5f4</webElementGuid>
+      <webElementGuid>1821d040-d0c8-49aa-8c32-79e70ec3d12a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='login']/form/div/input</value>
-      <webElementGuid>413d5a1d-5b1d-46b4-87c5-9225e299e0eb</webElementGuid>
+      <webElementGuid>02c05668-98f1-42c8-9f51-a94d5f52ef80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>8a330345-8c6e-4be9-b8a4-74a309d3e7cd</webElementGuid>
+      <webElementGuid>48a709e5-59a8-462b-8476-43c7740c8587</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'user' and @placeholder = 'cuenta@talisis.com']</value>
-      <webElementGuid>37ddcfdb-0a39-4cbc-ac44-be0c6822add8</webElementGuid>
+      <webElementGuid>c9aeb70a-886b-4024-8f4c-2a601db574f8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
