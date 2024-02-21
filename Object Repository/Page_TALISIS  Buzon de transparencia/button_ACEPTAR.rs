@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7709e399-b2e3-42f3-807f-7ff8162f2acf</webElementGuid>
+      <webElementGuid>87f92938-bbf6-4404-b293-41db80acd5ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary btnAceptar</value>
-      <webElementGuid>49c1356e-9471-4305-81cc-27238207752f</webElementGuid>
+      <webElementGuid>b5844dbd-b034-40fc-b8b8-dbc5ed0b963d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>09b612eb-c867-4014-936f-001b94246507</webElementGuid>
+      <webElementGuid>cc6f2cc7-0324-437c-95da-72245b89ed92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>ACEPTAR</value>
-      <webElementGuid>c6f20730-4b6b-4ae2-bf63-57de5963c6f9</webElementGuid>
+      <webElementGuid>1c6d2f67-3395-44cb-a06e-8e6d3aadcb28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login&quot;)/form[@class=&quot;form&quot;]/button[@class=&quot;btn btn-primary btnAceptar&quot;]</value>
-      <webElementGuid>8e160323-6cda-4979-9328-22f92cfa5b29</webElementGuid>
+      <webElementGuid>c92d177c-a82d-4c36-8475-57dbc400a3bb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>ba6fd6dc-947e-468c-a633-97b1218cd914</webElementGuid>
+      <webElementGuid>2451a1c1-ab10-4d46-9358-adfb3bf2bdf4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='login']/form/button</value>
-      <webElementGuid>b759e730-d385-46d0-a7d2-a038faec3967</webElementGuid>
+      <webElementGuid>f0e94c8a-c2fd-403f-93e2-e7f6c5117799</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Contraseña'])[1]/following::button[1]</value>
-      <webElementGuid>f4d19275-5263-468b-b403-4a99822dbe84</webElementGuid>
+      <webElementGuid>2842dbfe-ab77-411e-b2fe-cdb6fdf0c372</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuario'])[1]/following::button[1]</value>
-      <webElementGuid>fe0ce6ac-92a4-458c-b3c7-a468e293f393</webElementGuid>
+      <webElementGuid>1a844973-fbb5-4c9c-a329-90e24d3d722f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='info@talisis.com'])[1]/preceding::button[1]</value>
-      <webElementGuid>dde6811c-65ff-4ff8-89f2-87e102815557</webElementGuid>
+      <webElementGuid>d7110bba-796b-49b5-a42f-a114069f276f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='ACEPTAR']/parent::*</value>
-      <webElementGuid>a288f111-7756-4029-89a9-45877e355e1e</webElementGuid>
+      <webElementGuid>5e5f80d7-54fb-4250-affb-4707c294c6e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>43b26174-1036-446b-8127-d225fc6a11dc</webElementGuid>
+      <webElementGuid>35c5db5f-2dd4-4faf-9a45-b8a1136f82de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'ACEPTAR' or . = 'ACEPTAR')]</value>
-      <webElementGuid>49afbfc9-8bbb-4405-aae5-8bc95c36a43d</webElementGuid>
+      <webElementGuid>b6c3a9b4-1969-43e3-b57f-6a209a978d77</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
