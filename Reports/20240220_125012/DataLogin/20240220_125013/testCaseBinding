@@ -1,0 +1,5 @@
+{"testCaseName":"Test Cases/Buzón_login","testCaseId":"Test Cases/Buzón_login","iterationVariableName":"password","bindedValues":{"password":"\u0027Talisis2024#\u0027","user":"\u0027Roberto.Sanchez@talisis.com\u0027"}}
+{"testCaseName":"Test Cases/Buzón_login","testCaseId":"Test Cases/Buzón_login","iterationVariableName":"password","bindedValues":{"password":"\u0027654321\u0027","user":"\u0027abel.castro@talisis.com\u0027"}}
+{"testCaseName":"Test Cases/Buzón_login","testCaseId":"Test Cases/Buzón_login","iterationVariableName":"password","bindedValues":{"user":"\u0027miguel.cuevas@talisis.com\u0027"}}
+{"testCaseName":"Test Cases/Buzón_login","testCaseId":"Test Cases/Buzón_login","iterationVariableName":"password","bindedValues":{"password":"\u0027  \u0027","user":"\u0027abel.castro@talisis.com\u0027"}}
+{"testCaseName":"Test Cases/Buzón_login","testCaseId":"Test Cases/Buzón_login","iterationVariableName":"password","bindedValues":{"password":"\u002712345678\u0027"}}
