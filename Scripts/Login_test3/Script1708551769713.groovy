@@ -30,3 +30,5 @@ WebUI.click(findTestObject('Object Repository/Page_TALISIS  Buzon de transparenc
 
 WebUI.closeBrowser()
 
+WebUI.openBrowser('')
+
