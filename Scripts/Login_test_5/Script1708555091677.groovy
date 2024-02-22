@@ -19,3 +19,20 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.openBrowser('')
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://buzon.talisis.com/admin')
+
+WebUI.setText(findTestObject('Object Repository/Page_TALISIS  Buzon de transparencia/input_Usuario_user'), 'Roberto.sanchez@talisis.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_TALISIS  Buzon de transparencia/input_Contrasea_password'), 
+    'LOxy1T0FRwr3/4pB45k5yA==')
+
+WebUI.click(findTestObject('Object Repository/Page_TALISIS  Buzon de transparencia/button_ACEPTAR'))
+
+WebUI.click(findTestObject('Object Repository/Page_TALISIS  Buzon de transparencia/a_SALIR'))
+
+WebUI.closeBrowser()
+
