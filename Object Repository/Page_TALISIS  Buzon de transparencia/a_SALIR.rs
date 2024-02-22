@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>6978fb6c-b37b-4b66-93cd-b71b3f3e2fe9</webElementGuid>
+      <webElementGuid>4e1480ce-ab55-495c-b13f-0c77b4e42f24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://buzon.talisis.com/admin/salir</value>
-      <webElementGuid>083367a6-8003-43ea-8718-0eeb66ea0028</webElementGuid>
+      <webElementGuid>0c37dc69-2c7a-47ab-aaf7-f8052ea9d50f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btnLogout btn-danger</value>
-      <webElementGuid>9fb553cd-4531-4728-b73f-54e1e5862830</webElementGuid>
+      <webElementGuid>b77dd7ae-c223-486b-895e-eb992098ef24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>SALIR</value>
-      <webElementGuid>34f4b11b-a120-44c5-be34-73a9e0af1aae</webElementGuid>
+      <webElementGuid>0b6c28b7-f9b2-4d66-9a04-f0865371f244</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[1]/section[@class=&quot;main-container&quot;]/a[@class=&quot;btn btnLogout btn-danger&quot;]</value>
-      <webElementGuid>72351664-d1cd-4c15-af58-d2fb216db114</webElementGuid>
+      <webElementGuid>cf47574b-78e2-4b5e-b8aa-3e4670a8c45d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'SALIR')]</value>
-      <webElementGuid>b83855f3-8357-4877-b387-6ec12cd32495</webElementGuid>
+      <webElementGuid>864f9d98-fc8b-4c49-9af6-70f6f0b6ab9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mensajes'])[1]/following::a[1]</value>
-      <webElementGuid>b48ba378-bfe8-4352-ad3c-7dce84970e21</webElementGuid>
+      <webElementGuid>a8fa4241-5515-4c4b-ae08-573472bd212f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Roberto Sanchez Molina'])[1]/preceding::a[1]</value>
-      <webElementGuid>c3b1cb68-e8f8-4971-8001-2d99da9974a3</webElementGuid>
+      <webElementGuid>310c771a-0f69-4d74-b785-11d3013f9779</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrar mensajes'])[1]/preceding::a[1]</value>
-      <webElementGuid>9168e6fd-21f1-4543-aa60-7c3c9af128b1</webElementGuid>
+      <webElementGuid>6c98acf4-f5b6-4ec0-83a5-ec28bdd581cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='SALIR']/parent::*</value>
-      <webElementGuid>74035b44-17ba-4b49-a1d6-dccff63b3443</webElementGuid>
+      <webElementGuid>4cd4949f-c8b0-4bbc-b9d2-2953c894bb85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://buzon.talisis.com/admin/salir')]</value>
-      <webElementGuid>acc8320f-f013-46bc-b6fe-f03bf5b8a6c5</webElementGuid>
+      <webElementGuid>b6fa73ca-9336-4c31-94e2-a6f062c00c20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/a</value>
-      <webElementGuid>451e68c6-eab8-449b-a6f6-939c91f96398</webElementGuid>
+      <webElementGuid>6e706113-58d7-4e88-b1e3-cdbcadd41460</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://buzon.talisis.com/admin/salir' and (text() = 'SALIR' or . = 'SALIR')]</value>
-      <webElementGuid>f0cabc20-4ecd-4277-ac1f-5eb7ac916924</webElementGuid>
+      <webElementGuid>09cabe3b-ffe7-424d-b2a6-d948114d283d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
